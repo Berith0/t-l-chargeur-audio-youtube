@@ -1,8 +1,6 @@
-pour que le scipt fonctionne ils vou faut installer yt_dlp
+pour que le script fonctionne il vous faut installer yt_dlp
 
-pour cela il vous suffit:
-
-d'ouvrir un invite de commande/cmd
+pour cela il vous suffit d'ouvrir un invite de commande/cmd
 
 et de taper la commande:
 
